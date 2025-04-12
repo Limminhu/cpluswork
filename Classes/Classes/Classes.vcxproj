@@ -133,7 +133,10 @@
     <ClCompile Include="Books2.cpp" />
     <ClCompile Include="Dog1.cpp" />
     <ClCompile Include="Dog2.cpp" />
+    <ClCompile Include="InputPoint.cpp" />
+    <ClCompile Include="MemberService.cpp" />
     <ClCompile Include="PointerCircle.cpp" />
+    <ClCompile Include="restaurant.cpp" />
     <ClCompile Include="Transport.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
